@@ -13,3 +13,5 @@ Required modules:
     sklearn
 
 To run the .ipynb file, install the above-mentioned modules after navigating to the file after cloning the repository, and run the .pynb file.
+
+Data obtained from: https://github.com/irgroup/Qbias
